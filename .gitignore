@@ -1,0 +1,25 @@
+vue-front/.DS_Store
+vue-front/node_modules
+express-back/node_modules
+vue-front/dist
+
+
+# local env files
+vue-front/.env.local
+vue-front/.env.*.local
+
+# Log files
+vue-front/npm-debug.log*
+vue-front/yarn-debug.log*
+vue-front/yarn-error.log*
+vue-front/pnpm-debug.log*
+
+# Editor directories and files
+vue-front/.idea
+express-back/.idea
+vue-front/.vscode
+vue-front/*.suo
+vue-front/*.ntvs*
+vue-front/*.njsproj
+vue-front/*.sln
+vue-front/*.sw?
